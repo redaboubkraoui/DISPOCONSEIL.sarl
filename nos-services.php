@@ -11,12 +11,34 @@
             </div>
         </div>
     </section>
+    <br>
+     <section class="no-padding wow fadeIn bg-light-gray">
+        <div class="container-fluid">
+            <div class="row equalize sm-equalize-auto">
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 wow fadeInLeft no-padding-lr xs-padding-30px-tb sm-padding-15px-lr">
+                    <div class="padding-eight-all pull-left md-padding-eight-all sm-no-padding-lr xs-padding-20px-tb">
+                        <div class="col-lg-10 col-md-12 col-sm-12 col-xs-12 margin-six-bottom md-margin-six-bottom sm-margin-30px-bottom xs-no-margin-bottom xs-no-padding-lr">
+                            <h5 class="alt-font text-extra-dark-gray font-weight-600 sm-text-center sm-width-70 sm-margin-lr-auto xs-width-100 xs-margin-30px-bottom">Un Accompagnement Personnalisé Pour L'avancement De Votre Activité.</h5> </div>
+                        <div class="col-md-12 col-xs-12 col-sm-12 col-xs-12">
+                            <p><b>
+                                
+                                Note Cabinet de comptabilité à Casablanca Maroc aide tous les jours des créateurs d’entreprises en leur proposant des solutions de domiciliation ou de location d’espaces de travail à prix maîtrises.<br><br>
+                                Nous savons que créer son entreprise, c’est être agile, aller vite, et savoir adapter son espace de travail à l’évolution de sa société ; en 2 mots, c’est être flexible et rapide.
+</b>
+
+</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 cover-background sm-height-400px wow fadeInRight" style="background-image:url('images/img1.jpg');"></div>
+            </div>
+        </div>
+    </section>
     <section class="wow fadeIn">
         <div class="container">
             <div class="row">
                 <div class="col-lg-7 col-md-6 col-sm-8 col-xs-12 center-col margin-eight-bottom sm-margin-40px-bottom xs-margin-30px-bottom text-center">
-                    <h5 class="alt-font text-extra-dark-gray font-weight-600">Un Accompagnement Personnalisé Pour L'avancement De Votre Activité
-.</h5> </div>
+                    <h5 class="alt-font text-extra-dark-gray font-weight-600"></h5> </div>
             </div>
             <div class="row">
                 <div class="col-md-12 col-sm-12 center-col text-center no-padding tab-style1" id="animated-tab">
@@ -36,7 +58,7 @@
                         <div id="tab6_sec1" class="center-col tab-pane fade in active">
                             <div class="tab-pane fade in">
                                 <div class="equalize sm-equalize-auto">
-                                    <div class="col-md-4 text-left sm-margin-30px-bottom"> <img src="images/SERVICES/integration.jpg" alt="" /> </div>
+                                    <div class="col-md-4 text-left sm-margin-30px-bottom"> <img src="images/img2.jpg" alt="" /> </div>
                                     <div class="col-md-4 text-left sm-margin-30px-bottom">
                                         <div class="position-relative padding-45px-all sm-padding-30px-all height-100 width-100 border-all border-width-2 border-color-extra-light-gray display-table">
                                             <div class="display-table-cell vertical-align-middle"> <span class="text-medium font-weight-600 alt-font text-uppercase margin-10px-bottom display-block text-extra-dark-gray">01. CRÉATION DES SOCIÉTÉS</span> <span class="alt-font text-medium-gray text-medium">vous assiste dans le choix de la forme juridique appropriée à votre projet et prend en charge l’accomplissement de toutes les formalités administratives aboutissant à la création de votre société. confiez la création de votre société au Maroc à un spécialiste !</span> </div>
@@ -54,7 +76,7 @@
                         <div id="tab6_sec2" class="center-col tab-pane fade in">
                             <div class="tab-pane fade in">
                                 <div class="equalize sm-equalize-auto">
-                                    <div class="col-md-4 text-left sm-margin-30px-bottom"> <img src="images/SERVICES/confirmation.jpg" alt="" /> </div>
+                                    <div class="col-md-4 text-left sm-margin-30px-bottom"> <img src="images/img4.jpg" alt="" /> </div>
                                     <div class="col-md-4 text-left sm-margin-30px-bottom">
                                         <div class="position-relative padding-45px-all sm-padding-30px-all height-100 width-100 border-all border-width-2 border-color-extra-light-gray display-table">
                                             <div class="display-table-cell vertical-align-middle"> <span class="text-medium font-weight-600 alt-font text-uppercase margin-10px-bottom display-block text-extra-dark-gray">02. DOMICILIATION DES ENTREPRISES
@@ -73,7 +95,7 @@
                         <div id="tab6_sec3" class="center-col tab-pane fade in">
                             <div class="tab-pane fade in">
                                 <div class="equalize sm-equalize-auto">
-                                    <div class="col-md-4 text-left sm-margin-30px-bottom"> <img src="images/SERVICES/envois.jpg" alt="" /> </div>
+                                    <div class="col-md-4 text-left sm-margin-30px-bottom"> <img src="images/img3.jpg" alt="" /> </div>
                                     <div class="col-md-4 text-left sm-margin-30px-bottom">
                                         <div class="position-relative padding-45px-all sm-padding-30px-all height-100 width-100 border-all border-width-2 border-color-extra-light-gray display-table">
                                             <div class="display-table-cell vertical-align-middle"> <span class="text-medium font-weight-600 alt-font text-uppercase margin-10px-bottom display-block text-extra-dark-gray">03. LA FISCALITE ET LA COMPTABILITE</span> <span class="alt-font text-medium-gray text-medium"> vous informe des exigences légales en matière de comptabilité des sociétés et aux besoins elle met à votre disposition une équipe de comptable pour la tenue de la comptabilité et le suivi juridique de votre société dans les meilleures conditions d’efficacité.</span> </div>
@@ -91,7 +113,7 @@
                         <div id="tab6_sec4" class="center-col tab-pane fade in">
                             <div class="tab-pane fade in">
                                 <div class="equalize sm-equalize-auto">
-                                    <div class="col-md-4 text-left sm-margin-30px-bottom"> <img src="images/SERVICES/paiement.jpg" alt="" /> </div>
+                                    <div class="col-md-4 text-left sm-margin-30px-bottom"> <img src="images/img5.jpg" alt="" /> </div>
                                     <div class="col-md-4 text-left sm-margin-30px-bottom">
                                         <div class="position-relative padding-45px-all sm-padding-30px-all height-100 width-100 border-all border-width-2 border-color-extra-light-gray display-table">
                                             <div class="display-table-cell vertical-align-middle"> <span class="text-medium font-weight-600 alt-font text-uppercase margin-10px-bottom display-block text-extra-dark-gray">04. LA JURIDIQUE DES ENTREPRISES</span> <span class="alt-font text-medium-gray text-medium">vous aide à mettre en place une stratégie pour la gestion de votre société adaptée aux exigences de la concurrence et du marché dans lequel elle opère. L’équipe des experts de FIDUCIAIRE BRIGHTEN se tient toujours à votre disposition pour vous fournir des solutions adaptées à vos besoins.</span> </div>
@@ -111,53 +133,7 @@
             </div>
         </div>
     </section>
-    <section class="no-padding wow fadeIn bg-light-gray">
-        <div class="container-fluid">
-            <div class="row equalize sm-equalize-auto">
-                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 wow fadeInLeft no-padding-lr xs-padding-30px-tb sm-padding-15px-lr">
-                    <div class="padding-eight-all pull-left md-padding-eight-all sm-no-padding-lr xs-padding-20px-tb">
-                        <div class="col-lg-10 col-md-12 col-sm-12 col-xs-12 margin-six-bottom md-margin-six-bottom sm-margin-30px-bottom xs-no-margin-bottom xs-no-padding-lr">
-                            <h4 class="alt-font text-extra-dark-gray font-weight-600 sm-text-center sm-width-70 sm-margin-lr-auto xs-width-100 xs-margin-30px-bottom">Les avantages de choisir OUBRATRA MAROC</h4> </div>
-                        <div class="col-2-nth">
-                            <div class="col-lg-6 col-md-12 col-sm-6 col-xs-12 margin-six-bottom sm-margin-30px-bottom xs-no-padding-lr last-paragraph-no-margin">
-                                <div class="feature-box-5 position-relative"> <i class="icon-desktop text-medium-gray icon-medium"></i>
-                                    <div class="feature-content">
-                                        <div class="text-extra-dark-gray margin-5px-bottom alt-font font-weight-600">Gestion multicanal</div>
-                                        <p class="width-100 xs-width-100">Gérez des commandes à partir de tous les canaux sur lesquels vous vendez, y compris woocommerce et Shopify.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-md-12 col-sm-6 col-xs-12 margin-six-bottom sm-margin-30px-bottom xs-no-padding-lr last-paragraph-no-margin">
-                                <div class="feature-box-5 position-relative"> <i class="icon-wallet text-medium-gray icon-medium"></i>
-                                    <div class="feature-content">
-                                        <div class="text-extra-dark-gray margin-5px-bottom alt-font font-weight-600">Insertion</div>
-                                        <p class="width-100 xs-width-100">Qu'ils soient transactionnels ou postaux, les systèmes d'insertion hautes performances de OUBRATRA MAROC offrent un traitement des documents sécurisé, efficace et flexible.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-md-12 col-sm-6 col-xs-12 md-margin-six-bottom sm-no-margin-bottom xs-margin-30px-bottom xs-no-padding-lr last-paragraph-no-margin">
-                                <div class="feature-box-5 position-relative"> <i class="icon-linegraph text-medium-gray icon-medium"></i>
-                                    <div class="feature-content">
-                                        <div class="text-extra-dark-gray margin-5px-bottom alt-font font-weight-600">Plus de contrôle</div>
-                                        <p class="width-100 xs-width-100">Vous pouvez rechercher vos colis dont vous avez manqué la livraison ou vérifier l'état de l’avancement de vos colis qui doivent être livrés.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-md-12 col-sm-6 col-xs-12 last-paragraph-no-margin xs-no-padding-lr">
-                                <div class="feature-box-5 position-relative "> <i class="icon-global text-medium-gray icon-medium"></i>
-                                    <div class="feature-content">
-                                        <div class="text-extra-dark-gray margin-10px-bottom alt-font font-weight-600">Disponible pour tous</div>
-                                        <p class="width-100 xs-width-100">De l'expéditeur occasionnel aux jeunes entreprises en ligne, OUBRATRA MAROC propose une gamme de fonctionnalités facilitant l'envoi pour tous.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 cover-background sm-height-400px wow fadeInRight" style="background-image:url('https://www.oubratra.ma/images/pages/les-avantages-de-choisir-oubratra-maroc.jpg');"></div>
-            </div>
-        </div>
-    </section>
+   
     <section class="wow fadeIn ">
         <div class="container">
             <div class="row">
@@ -241,7 +217,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-12 text-center"> <a href="https://www.oubratra.ma/notre-equipe" class="btn btn-large btn-transparent-deep-pink btn-rounded margin-35px-top no-margin-right">Toute l'équipe</a> </div>
+                <div class="col-md-12 text-center"> <a href="https://www.oubratra.ma/notre-equipe" class="btn btn-large btn-warning btn-rounded margin-35px-top no-margin-right">Contactez nous</a> </div>
             </div>
         </div>
     </section>

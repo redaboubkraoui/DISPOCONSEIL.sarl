@@ -2,11 +2,12 @@
         <div class="footer-widget-area padding-five-tb xs-padding-30px-tb">
             <div class="container">
                 <div class="row equalize xs-equalize-auto">
-                    <div class="col-md-3 col-sm-6 col-xs-12 widget border-right border-color-medium-dark-gray sm-no-border-right sm-margin-30px-bottom xs-text-center">
+                    <div class="col-md-4 col-sm-6 col-xs-12 widget border-right border-color-medium-dark-gray sm-no-border-right sm-margin-30px-bottom xs-text-center">
                         <a href="index.html" class="margin-20px-bottom display-inline-block">
-                            <img class="footer-logo" src="https://www.oubratra.ma/images/logo-white.png" data-rjs="https://www.oubratra.ma/images/logo-white@2x.png" alt="Oubratra Maroc">
+                            <img class="footer-logo" src="logo.png" data-rjs="https://www.oubratra.ma/images/logo-white@2x.png" alt="Oubratra Maroc">
                         </a>
-                        <p class="text-small width-95 xs-width-100">OUBRATRA MAROC œuvre avec rapidité et agilité et assure une distribution transparente de bout en bout avec passion et engagement.</p>
+                        <p class="text-small width-95 xs-width-100">DISPO CONSEIL.SARL Cabinet-Comptable-Fiduciaire à Agadir Maroc
+.</p>
                         <div class="social-icon-style-8 display-inline-block vertical-align-middle">
                             <ul class="small-icon no-margin-bottom">
                                 <li><a class="facebook text-white" href="https://www.facebook.com/www.oubratra.ma/" target="_blank"><i class="fab fa-facebook-f" aria-hidden="true">
@@ -25,7 +26,7 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="col-md-3 col-sm-6 col-xs-12 widget border-right border-color-medium-dark-gray padding-45px-left sm-padding-15px-left sm-no-border-right sm-margin-30px-bottom xs-text-center">
+                    <div class="col-md-4 col-sm-6 col-xs-12 widget border-right border-color-medium-dark-gray padding-45px-left sm-padding-15px-left sm-no-border-right sm-margin-30px-bottom xs-text-center">
                         <div class="widget-title alt-font text-small text-medium-gray text-uppercase margin-10px-bottom font-weight-600">Liens</div>
                         <ul class="list-unstyled">
                             <li> <a class="active" href="index.html">ACCUEIL</a> </li>
@@ -34,24 +35,14 @@
                             <li>
                                 <a class="" href="nos-services.html">NOS SERVICES</a>
                             </li>
-                            <li>
-                                <a class="" href="nos-tarifs.html">NOS TARIFS</a>
-                            </li>
-                        </ul>
+                                                    </ul>
                     </div>
-                    <div class="col-md-3 col-sm-6 col-xs-12 widget border-right border-color-medium-dark-gray padding-45px-left sm-padding-15px-left sm-no-border-right sm-margin-30px-bottom xs-text-center">
-                        <div class="widget-title alt-font text-small text-medium-gray text-uppercase margin-10px-bottom font-weight-600">Rejoignez nous</div>
-                        <ul class="list-unstyled">
-                            <li>
-                                <a class="text-small " href="commencez-avec-oubratra-maroc.html">CRÉER UN COMPTE</a>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="col-md-3 col-sm-6 col-xs-12 widget border-color-medium-dark-gray padding-45px-left sm-padding-15px-left sm-clear-both sm-no-border-right xs-margin-30px-bottom xs-text-center">
+                    
+                    <div class="col-md-4 col-sm-6 col-xs-12 widget border-color-medium-dark-gray padding-45px-left sm-padding-15px-left sm-clear-both sm-no-border-right xs-margin-30px-bottom xs-text-center">
                         <div class="widget-title alt-font text-small text-medium-gray text-uppercase margin-10px-bottom font-weight-600">INFORMATIONS DE CONTACT</div>
-                        <p class="text-small display-block margin-15px-bottom width-80 xs-center-col"> Bureau N° 10 2ème étage, Imm Guedira Av Hassan 1er, Hay Almassira 80000 Agadir - Maroc </p>
-                        <div class="text-small">Email: <a href="mailto:contact@oubratra.ma">contact@oubratra.ma</a></div>
-                        <div class="text-small">Téléphone: <a href="tel:05 28 23 64 21">05 28 23 64 21</a></div>
+                        <p class="text-small display-block margin-15px-bottom width-80 xs-center-col"> Rue 303 N 2 Cité Moulay Rachid Agadir - Maroc </p>
+                        <div class="text-small">Email: <a href="mailto:dispo.conseil@gmail.com">dispo.conseil@gmail.com</a></div>
+                        <div class="text-small">Téléphone: <a href="tel:06 55 46 21 75">06 55 46 21 75</a></div>
                         <a href="contactez-nous.html" class="text-small text-uppercase text-decoration-underline">Contactez-nous</a>
                     </div>
                 </div>
