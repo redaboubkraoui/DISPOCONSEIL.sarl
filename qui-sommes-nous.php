@@ -2,7 +2,7 @@
 
 
 
-    <section class="wow fadeIn cover-background background-position-top top-space" style="background-image:url('https://www.oubratra.ma/images/pages/qui-sommes-nous.jpg');">
+    <section class="wow fadeIn cover-background background-position-top top-space" style="background-image:url('images/img9.jpg');">
         <div class="container">
             <div class="row">
                 <div class="col-md-12 col-sm-12 col-xs-12 display-table page-title-large">
@@ -17,7 +17,7 @@
             <div class="row equalize sm-equalize-auto">
                 <div class="col-md-5 col-sm-12 col-xs-12 text-center sm-margin-30px-bottom wow fadeInLeft">
                     <div class="display-table width-100 height-100">
-                        <div class="display-table-cell vertical-align-middle width-100 height-100"> <img src="images/pages/about.jpg" alt="" class="border-radius-6 width-100"> </div>
+                        <div class="display-table-cell vertical-align-middle width-100 height-100"> <img src="images/img7.jpg" alt="" class="border-radius-6 width-100"> </div>
                     </div>
                 </div>
                 <div class="col-md-7 col-sm-12 col-xs-12 wow fadeInRight" data-wow-delay="0.2s">
@@ -26,7 +26,7 @@
                             <p>Lors de la phase de création, notre comptable vous conseille sur la problématique de la forme juridique à adopter et ses incidences sur la protection sociale du chef d’entreprise et la faisabilité des projets. Le rôle de notre comptable est d’accompagner le décideur face à ses obligations fiscales, sociales et financières.
 Outre l’élaboration des comptes annuels, il intervient au niveau de la préparation du budget.
                                 <br>
-                                <br>  </p> <a href="transformez-votre-experience-client.html" class="btn btn-dark-gray btn-small text-extra-small btn-rounded margin-5px-top"><i class="fas fa-play-circle icon-very-small margin-5px-right no-margin-left" aria-hidden="true"></i>Lire plus</a> </div>
+                                <br>  </p> <a href="nos-services.php" class="btn btn-dark-gray btn-small text-extra-small btn-rounded margin-5px-top"><i class="fas fa-play-circle icon-very-small margin-5px-right no-margin-left" aria-hidden="true"></i>Lire plus</a> </div>
                     </div>
                 </div>
             </div>

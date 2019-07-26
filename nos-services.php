@@ -1,7 +1,7 @@
 
 <?php  require_once('header.php');  ?>
 
-    <section class="wow fadeIn cover-background background-position-top top-space" style="background-image:url('https://www.oubratra.ma/images/pages/nos-services.jpg');">
+    <section class="wow fadeIn cover-background background-position-top top-space" style="background-image:url('images/img8.jpg');">
         <div class="container">
             <div class="row">
                 <div class="col-md-12 col-sm-12 col-xs-12 display-table page-title-large">
@@ -137,83 +137,31 @@
     <section class="wow fadeIn ">
         <div class="container">
             <div class="row">
-                <div class="col-lg-6 col-md-6 col-sm-8 col-xs-12 center-col margin-eight-bottom sm-margin-40px-bottom text-center last-paragraph-no-margin">
-                    <h5 class="alt-font font-weight-700 text-extra-dark-gray margin-15px-bottom text-uppercase">Notre équipe</h5>
-                    <p class="width-90 margin-lr-auto xs-width-100 xs-no-margin-bottom"> Notre équipe apporte une richesse d'expérience à OUBRATRA MAROC. Ils sont responsables de la stratégie et de l’avancement des opérations de chaque jour. </p>
+                <div class="col-lg-12 col-md-12 col-sm-8 col-xs-12 center-col margin-eight-bottom sm-margin-40px-bottom text-center last-paragraph-no-margin">
+                    <h5 class="alt-font font-weight-700 text-extra-dark-gray margin-15px-bottom text-uppercase"> équipe</h5>
+                    <p class="width-90 margin-lr-auto xs-width-100 xs-no-margin-bottom">Dispo Conseil.sarl dispose d’une équipe de comptables professionnels et expérimentés dans la tenue de la comptabilité française.
+
+Nos comptables disposent de diplômes universitaires en comptabilité et sont dotés d’une expérience probante dans la tenue de comptabilité française. Ils ont par ailleurs une totale maîtrise des logiciels comptables les plus courants à savoir Quadratus, Sage Coala, EBP, Cegid, ciel…
+<br>
+Une équipe réactive est ainsi mise à disposition de chaque cabinet d’expert comptable. Travaillant toujours suivant les normes et processus comptables français, elle est à la fois consciencieuse et expérimentée dans l’objectif de respecter les délais et toujours fournir une tenue de comptabilité de qualité irréprochable. L’imputation des multiples pièces comptables (charges sociales, bordereaux, taxes, factures…) est une pratique courante chez nos comptables ainsi ils sauront les manipuler avec dextérité.
+<br>
+
+Tous les comptables de Sous Traitance Comptabilité reçoivent constamment des formations et informations suivant les mises à jour effectuées au niveau de la fiscalité et de la comptabilité française mais egalement sur les logiciel de comptabilité </p>
                 </div>
             </div>
             <div class="row">
                 <div class="position-relative">
                     <div class="swiper-container black-move blog-slider swiper-four-slides swiper-pagination-bottom">
                         <div class="swiper-wrapper">
-                            <div class="swiper-slide padding-15px-lr team-block text-left team-style-1 md-margin-40px-bottom wow fadeInUp">
+                            <div class=" text-center  col-md-12    md-margin-40px-bottom wow fadeInUp">
                                 <figure>
-                                    <div class="team-image xs-width-100"> <img src="https://www.oubratra.ma/images/equipe/ahmed.jpg" alt="">
+                                    <div class="img-fluid" alt="Responsive image"> <img src="images/img6.jpg" alt="">
                                         <div class="team-overlay bg-deep-pink opacity8"></div>
                                     </div>
-                                    <figcaption>
-                                        <div class="team-member-position margin-20px-top text-center">
-                                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Ahmed Oubraim</div>
-                                            <div class="text-extra-small text-uppercase text-medium-gray">Directeur Général</div>
-                                        </div>
-                                    </figcaption>
+                                   
                                 </figure>
                             </div>
-                            <div class="swiper-slide padding-15px-lr team-block text-left team-style-1 md-margin-40px-bottom wow fadeInUp">
-                                <figure>
-                                    <div class="team-image xs-width-100"> <img src="https://www.oubratra.ma/images/equipe/said-c.jpg" alt="">
-                                        <div class="team-overlay bg-deep-pink opacity8"></div>
-                                    </div>
-                                    <figcaption>
-                                        <div class="team-member-position margin-20px-top text-center">
-                                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Tibaouine Essaid</div>
-                                            <div class="text-extra-small text-uppercase text-medium-gray">Comptable</div>
-                                        </div>
-                                    </figcaption>
-                                </figure>
-                            </div>
-                            <div class="swiper-slide padding-15px-lr team-block text-left team-style-1 md-margin-40px-bottom wow fadeInUp">
-                                <figure>
-                                    <div class="team-image xs-width-100"> <img src="https://www.oubratra.ma/images/equipe/yassine.jpg" alt="">
-                                        <div class="team-overlay bg-deep-pink opacity8"></div>
-                                    </div>
-                                    <figcaption>
-                                        <div class="team-member-position margin-20px-top text-center">
-                                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Yassine Tigga</div>
-                                            <div class="text-extra-small text-uppercase text-medium-gray">Responsable Commercial</div>
-                                        </div>
-                                    </figcaption>
-                                </figure>
-                            </div>
-                            <div class="swiper-slide padding-15px-lr team-block text-left team-style-1 md-margin-40px-bottom wow fadeInUp">
-                                <figure>
-                                    <div class="team-image xs-width-100"> <img src="https://www.oubratra.ma/images/equipe/nadiya.jpg" alt="">
-                                        <div class="team-overlay bg-deep-pink opacity8"></div>
-                                    </div>
-                                    <figcaption>
-                                        <div class="team-member-position margin-20px-top text-center">
-                                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Nadia Bourhim</div>
-                                            <div class="text-extra-small text-uppercase text-medium-gray">Agent administratif</div>
-                                        </div>
-                                    </figcaption>
-                                </figure>
-                            </div>
-                            <div class="swiper-slide padding-15px-lr team-block text-left team-style-1 md-margin-40px-bottom wow fadeInUp">
-                                <figure>
-                                    <div class="team-image xs-width-100"> <img src="https://www.oubratra.ma/images/equipe/said-r.jpg" alt="">
-                                        <div class="team-overlay bg-deep-pink opacity8"></div>
-                                    </div>
-                                    <figcaption>
-                                        <div class="team-member-position margin-20px-top text-center">
-                                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Said Outaleb</div>
-                                            <div class="text-extra-small text-uppercase text-medium-gray">Responsable Ramassage</div>
-                                        </div>
-                                    </figcaption>
-                                </figure>
-                            </div>
-                        </div>
-                        <div class="swiper-pagination swiper-pagination-four-slides"></div>
-                    </div>
+                  
                 </div>
             </div>
             <div class="row">
